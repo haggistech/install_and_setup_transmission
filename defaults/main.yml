@@ -1,0 +1,7 @@
+---
+# defaults file for setup_transmission
+
+download-dir: /home/user/path/to/download/directory
+rpc-password: EnterPasswordHere
+transmission-user: transmission
+transmission-group: transmission
